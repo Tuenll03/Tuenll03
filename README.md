@@ -1,32 +1,24 @@
-<!-- Banner / Cover -->
-<p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
-</p>
+# ✨ Hello World! I'm Tuenll03 ✨
 
-<h1 align="center"> Jirawat Tuenla <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
-
-<p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
-</p>
----
-
-## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+**💻 Backend Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner**
 
 ---
 
-## 🧰 Tech Stack & Tools
-<div align="center">
+### 🙋‍♂️ About Me
 
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|-------------|---------------------|
-| ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
-| ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+- 🎓 IT Student at Maejo University
+- 💻 Interested in Fullstack & Backend Development
+- 🛠️ Building web applications using Java, Python, and JavaScript
 
-</div>
+---
+### 🛠️ Tech Stack & Tools
+
+| Programming | Frontend | Backend & DB | Tools |
+| :--- | :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| | | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+---
+
+
