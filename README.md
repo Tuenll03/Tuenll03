@@ -21,8 +21,7 @@
 | | | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white) |
 ---
 <p align="center">
-  <img src="
-" alt="Chill Cat in Water" width="100%" max-width="600px" />
+  <i>"Why you mustn't worry and just be happy."</i> 🌧️☕✨
 </p>
 
 
