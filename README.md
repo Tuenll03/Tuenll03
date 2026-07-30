@@ -1,5 +1,6 @@
+<h1 align="center">✨ Hello World! I'm Jirawat Tuenla ✨</h1>
+
 <p align="center">
-  <h1>✨ Hello World! I'm Jirawat Tuenla ✨</h1>
   <b>💻 Backend Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner</b>
 </p>
 
