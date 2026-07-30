@@ -1,6 +1,7 @@
-# ✨ Hello World! I'm Jirawat Tuenla ✨
-
-**💻 Backend Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner**
+<p align="center">
+  <h1>✨ Hello World! I'm Jirawat Tuenla ✨</h1>
+  <b>💻 Backend Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner</b>
+</p>
 
 ---
 
